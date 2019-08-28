@@ -1,0 +1,1 @@
+﻿This applications has configurations for aws, azure and gcloud docker deployments
