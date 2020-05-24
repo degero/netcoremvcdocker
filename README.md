@@ -1,4 +1,4 @@
-# Dotnetcore22docker
+# netcoremvcdocker
 
 ## Introduction
 Dockerized Dotnet Core 2.2 MVC app
